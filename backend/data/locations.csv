@@ -1,0 +1,31 @@
+location_id,company_id,name,address,latitude,longitude
+1,1,Alpha Warehouse,1240 Alpha Ave,40.713776,-74.004974
+2,1,Alpha Office,1230 Alpha Ave,40.711776,-74.006974
+3,2,Beta Remote Office,5680 Beta Blvd,34.053235,-118.244683
+4,2,Beta Storage,5670 Beta Blvd,34.051235,-118.245683
+5,2,Beta Research Lab,5660 Beta Blvd,34.054235,-118.242683
+6,3,Gamma Distribution Center,9115 Gamma St,37.775929,-122.420418
+7,3,Gamma Admin Office,9105 Gamma St,37.774929,-122.419418
+8,4,Delta Research Lab,1219 Delta Rd,47.607209,-122.333069
+9,4,Delta Marketing Dept,1223 Delta Rd,47.608209,-122.334069
+10,4,Delta Sales Office,1227 Delta Rd,47.606209,-122.335069
+11,5,Epsilon Development,1410 Epsilon Dr,41.879113,-87.629799
+12,5,Epsilon HR Office,1420 Epsilon Dr,41.877113,-87.630799
+13,6,Zeta Manufacturing,1610 Zeta Lane,30.268153,-97.744057
+14,6,Zeta Distribution,1605 Zeta Lane,30.266153,-97.742057
+15,7,Eta Customer Service,1824 Eta Street,37.339208,-121.885329
+16,7,Eta Logistics,1814 Eta Street,37.337208,-121.887329
+17,8,Theta R&D Center,2016 Theta Ave,40.761779,-111.892047
+18,8,Theta Executive Suite,2026 Theta Ave,40.759779,-111.890047
+19,9,Iota Support Center,2228 Iota Ct,39.740236,-104.991251
+20,9,Iota Operations,2218 Iota Ct,39.738236,-104.989251
+21,10,Kappa Lab,2430 Kappa Blvd,34.053235,-118.242683
+22,10,Kappa Sales,2435 Kappa Blvd,34.054235,-118.243683
+23,10,Kappa Quality Control,2420 Kappa Blvd,34.051235,-118.244683
+24,1,Alpha Shipping,1245 Alpha Ave,40.712776,-74.005974
+25,2,Beta Engineering,5675 Beta Blvd,34.052235,-118.243683
+26,3,Gamma Product Development,9110 Gamma St,37.774929,-122.419418
+27,4,Delta Procurement,1218 Delta Rd,47.606209,-122.332069
+28,5,Epsilon Analytics,1418 Epsilon Dr,41.878113,-87.629799
+29,6,Zeta Core Tech,1618 Zeta Lane,30.267153,-97.743057
+30,7,Eta Project Management,1820 Eta Street,37.338208,-121.886329

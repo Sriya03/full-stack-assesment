@@ -1,0 +1,25 @@
+# Use an official Node.js image.
+FROM node:16-slim
+
+# Set the working directory in the container
+WORKDIR /app
+
+# Install dependencies
+COPY package.json package-lock.json ./
+RUN npm install --production
+
+# Copy only the necessary files
+COPY public public
+COPY src src
+
+# Build the application
+RUN npm run build
+
+# Install serve to serve the static files
+RUN npm install -g serve
+
+# Expose port 3000 to the outside once the container is running
+EXPOSE 3000
+
+# Serve the static files
+CMD ["serve", "-s", "build", "-l", "3000"]
